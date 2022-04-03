@@ -24,7 +24,8 @@ class BookTest extends ApiTestCase
             'title' => 'Test Driven Development: By Example',
             'description' => 'Clean code that works--now. This is the seeming contradiction that lies behind much of the pain of programming. Test-driven development replies to this contradiction with a paradox--test the program before you write it.',
             'author' => 'Kent Beck',
-            'publicationDate' => '8. November 2002',
+            'publicationDate' => '2002-11-08T00:00:00+00:00',
+            'reviews' => [],
         ]);
     }
 }
